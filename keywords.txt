@@ -1,0 +1,13 @@
+ColorSensor	KEYWORD1
+Colors	KEYWORD1
+colorValues	KEYWORD1
+whiteBalanceArray	KEYWORD2
+whiteBalance	KEYWORD2
+calibrateArray	KEYWORD2
+calibrate	KEYWORD2
+readArray	KEYWORD2
+printRGB	KEYWORD2
+read	KEYWORD2
+print	KEYWORD2
+printArray	KEYWORD2
+colors	KEYWORD2
